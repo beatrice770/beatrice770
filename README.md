@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi Beatrice 👋 
+Welcome to my Git hub Profile 
+##ABOUT ME
+-I am learning web development.
+-I am learning HTML,CSS and JAVASCRIPT
+I am building my programming step by step.
+##SKILLLS
+HTML
+-CSS
+-JAVASCRIPT
 
-<!--
-**beatrice770/beatrice770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#GOALS
+-Become a better programmer
+-Build useful websites and projects
+-Keep learning new project
